@@ -1,0 +1,17 @@
+{
+  "name": "mean-database",
+  "version": "1.0.0",
+  "description": "Learn how to work with a database using mongoose",
+  "main": "app.js",
+  "scripts": {
+    "test": "app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongodb": "^2.2.30",
+    "mongoose": "^4.11.1"
+  }
+}
